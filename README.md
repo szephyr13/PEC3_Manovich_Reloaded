@@ -42,12 +42,22 @@ Y no se puede decir que la creación de Wattpad haya sido un suceso sin impacto 
 
 <img width="1652" alt="Story Planner" src="https://github.com/szephyr13/PEC3_Manovich_Reloaded/assets/80421328/3eeb6128-645a-467a-9f6a-c3911ae07c49">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Story Planner, por su parte, es una aplicación para dispositivos móviles, tablet y ordenador que tiene como uso principal, como su nombre indica, **planificar historias**. Esta app no es un caso de hibridación tan claro como el de Wattpad, pero sí se puede apreciar en bastantes de los aspectos interiores de la misma. Procedo a mencionarlos:
+
+* En el momento de **almacenar** los proyectos planificados, Story Planner ofrece una **variedad de etiquetas** que recuerda más bien a un programa de cataloguización de libros o de objetos. Se pueden incluir etiquetas de colores, fecha de creación, tags, nombre completo y estado de finalización. 
+* En cuanto al almacenamiento de los proyectos, también se incluyen **medidas de protección**, como el acceso con reconocimiento facial, huella dactilar o contraseña; y la posibilidad de **subirlo a la nube** para no perder los datos. 
+* Se incluye un **servicio de estadísticas** que analiza el número de personajes, los lugares y su tipo, la cantidad de tramas y cómo se llevan, las escenas y los actos.
+* Se pueden **adjuntar imágenes y etiquetas** a todas las fichas, teniendo así todo junto para desarrollar las ideas con mayor facilidad. 
+* Dentro de los propios proyectos se encuentra una **ficha realmente detallada de cada uno de los elementos** que se pueden planificar en una historia. Las pestañas disponibles son proyecto, personajes, lugares, tramas, escenas y notas. Dentro de cada una de las pestañas, y siendo esto lo más relevante, aparte de poder especificar con libertad lo que queramos anotar, se incluye un apartado que nos da **información acerca de cómo se redacta ese espacio**, cómo se puede utilizar en un futuro y además, nos da ejemplos reales. 
+
+Se puede decir que Story Planner es una hibridación mucho más simple que, pasado a términos físicos tangibles, sería como hibridar fichas de planificación, fotografías, carpetas, organizadores, libros teóricos de escritura creativa y un asistente que se asegura de que, si pierdes todo, hay otro kit de repuesto. Es decir, aunque sea simple, no deja de ser hibridación.
 
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+
+Las imágenes de los casos son capturas de pantalla de las webs oficiales (https://www.wattpad.com y https://www.storyplanner.app) y todo el texto se ha realizado con la web y la aplicación delante. 
 
 
 ----
